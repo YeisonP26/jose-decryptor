@@ -190,4 +190,7 @@ Evidencia:
 
 <img width="931" height="508" alt="image" src="https://github.com/user-attachments/assets/a59722de-b503-46d2-81a4-7b7c27da3a87" />
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/96c79bcd-2757-44a9-8db7-04c7c232a519" />
+
+
 
