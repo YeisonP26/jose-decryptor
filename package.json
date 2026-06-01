@@ -1,0 +1,28 @@
+{
+  "name": "jose-decryptor",
+  "version": "1.0.0",
+  "description": "AWS Lambda for decrypting JWE tokens back into JSON payloads using RSA-OAEP-256 + A256GCM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "jose": "^5.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "aws-lambda",
+    "jwe",
+    "decryption",
+    "rsa",
+    "jose"
+  ],
+  "author": "",
+  "license": "MIT"
+}
