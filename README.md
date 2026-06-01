@@ -184,3 +184,10 @@ eyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.eyJlbmNyeXB0ZWRfa2V5Ijoi... 
 ```
 
 *(El JWE exacto varía en cada ejecución por la generación aleatoria de CEK e IV)*
+
+Evidencia: 
+<img width="946" height="574" alt="image" src="https://github.com/user-attachments/assets/6dc8befb-ab1a-4351-8931-6b9c1e5ccfae" />
+
+<img width="931" height="508" alt="image" src="https://github.com/user-attachments/assets/a59722de-b503-46d2-81a4-7b7c27da3a87" />
+
+
